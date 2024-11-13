@@ -2,19 +2,10 @@
 
 <h2>Technologies utilisées</h2>
 
-<div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
+| ![Logo HTML](readme_files/html.svg) | ![Logo CSS](readme_files/css.svg) |
+|:-----------------------------------:|:---------------------------------:|
+| HTML                                | CSS                               |
 
-<div>
-    <img src="readme_files/html.svg" alt="logo html" width="100" height="100">
-    <p>HTML</p>
-</div>
-
-<div>
-    <img src="readme_files/css.svg" alt="logo css" width="100" height="100">
-    <p>CSS</p>
-</div>
-
-</div>
 
 
 
