@@ -2,10 +2,19 @@
 
 <h2>Technologies utilisées</h2>
 
-<p>HTML</p>
-<img src="readme_files/html.svg" alt="logo html" width="200" height="200">HTML
-<p>CSS</p>
-<img src="readme_files/css.svg" alt="logo css" width="200" height="200">CSS 
+<div style="display: flex; justify-content: space-around; align-items: center; text-align: center;">
+
+<div>
+    <img src="readme_files/html.svg" alt="logo html" width="100" height="100">
+    <p>HTML</p>
+</div>
+
+<div>
+    <img src="readme_files/css.svg" alt="logo css" width="100" height="100">
+    <p>CSS</p>
+</div>
+
+</div>
 
 
 
