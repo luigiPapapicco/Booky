@@ -1,4 +1,8 @@
 # Booki
+Technologies utilisées:
+![Logo de mon projet](readme_files/html.svg) HTML
+![Logo de mon projet](readme_files/cass.svg) CSS
+
 
 
 <h2>Contexte</h2>
