@@ -1,10 +1,9 @@
 # Booki
 Technologies utilisées:
-
-<img src="readme_files/html.svg" alt="logo html" width="200" height="200"> HTML
-
-![Logo de mon projet](readme_files/css.svg) CSS
-
+HTML
+<img src="readme_files/html.svg" alt="logo html" width="200" height="200"> 
+CSS
+<img src="readme_files/css.svg" alt="logo css" width="200" height="200"> 
 
 
 <h2>Contexte</h2>
