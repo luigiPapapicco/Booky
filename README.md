@@ -1,12 +1,12 @@
 # Booki
 
 <h2>Technologies utilisées</h2>
-<div>
-  <p>HTML</p>
+
+<p>HTML</p>
 <img src="readme_files/html.svg" alt="logo html" width="200" height="200"> 
 <p>CSS</p>
 <img src="readme_files/css.svg" alt="logo css" width="200" height="200"> 
-</div>
+
 
 
 
